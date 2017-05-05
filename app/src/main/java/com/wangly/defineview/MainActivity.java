@@ -19,5 +19,10 @@ public class MainActivity extends AppCompatActivity {
 
     public void branch(){
         Log.i("TAG","---创建分支---");
+        Log.i("TAG","---创建分支---");
+        Log.i("TAG","---创建分支---");
+        Log.i("TAG","---创建分支---");
+        Log.i("TAG","---创建分支---");
+
     }
 }
