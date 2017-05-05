@@ -29,5 +29,6 @@ public class MainActivity extends AppCompatActivity {
     public void branch1(){
         Log.i("TAG","---创建分支---");
         Log.i("TAG","---创建分支---");
+        Log.i("TAG","branch  1 更新文件");
     }
 }
